@@ -1,0 +1,15 @@
+/* For styling my blogger */
+/* 用 UTF-8 字符集 */
+@charset "UTF-8";
+
+/* Style the navbar */
+#navbar {
+  overflow: hidden;
+}
+
+/* The sticky class is added to the navbar with JS when it reaches its scroll position */
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
